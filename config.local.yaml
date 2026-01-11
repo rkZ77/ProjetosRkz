@@ -42,7 +42,7 @@ value_detection:
 # OpenAI / IA
 openai:
   use_openai: false
-  api_key: "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"  # ou use var de ambiente OPENAI_API_KEY
+  api_key: "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"  # ou use var de ambiente OPENAI_API_KEY
   model: "gpt-4o-mini"
 
 # Saída: console e opcionalmente arquivo JSON
